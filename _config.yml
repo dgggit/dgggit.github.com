@@ -1,1 +1,13 @@
+# Homepage Settings
+title : Jinho Ko
+url : http://dgggit.github.io/
+
+author :
+	name : "Jinho Ko (고진호)"
+	email : ben4945@postech.ac.kr
+	url : http://dgggit.github.io
+
+
+
+# Theme information
 theme: jekyll-theme-cayman
