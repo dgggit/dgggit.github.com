@@ -1,4 +1,6 @@
-# Welcome!
+# dgggit.github.io
 
-Welcome to my github homepage
+Private repo of basefiles, composing "dgggit.github.io"
+
+[link to](http://dgggit.github.io)
 
