@@ -6,3 +6,10 @@ my_title : Home
 
 ### Resume
 [link to PDF]({{site.baseurl}}/resourses/resume/resume_jinhoko.pdf)
+
+### Profile
+Haha
+
+### Research
+
+### Area of Interests
