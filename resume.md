@@ -1,7 +1,7 @@
 ---
-layout : page
+layout : default
+title : Resume
+permalink : /resourses/resume/resume_jinhoko.pdf
 ---
 
-
-### Resume
-[link to PDF]({{site.baseurl}}/resourses/resume/resume_jinhoko.pdf)
+# Change permalink to directly link to your resume
