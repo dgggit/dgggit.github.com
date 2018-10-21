@@ -29,10 +29,10 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  -index.md
-  -about.md
-  -presentation.html
-  -resume.html
+  - index.md
+  - about.md
+  - presentation.html
+  - resume.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
