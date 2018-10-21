@@ -1,22 +1,21 @@
 ---
 layout: presentation
 title : Presentation
-permalink : /presentation
+permalink : /presentation/
 ---
 
 		<div class="reveal">
 			<div class="slides">
 				<section>
-				{% assign sitePosts = site.posts | reverse | sort:date %}
+				{% assign sitePosts = site.posts | reverse | sort:date  | where:"tag","presentation"  %}
 				{% assign prevYear = sitePosts[0].date | date: "%Y" %}
 
 				{% for post in sitePosts %}
 					{% assign postYear = post.date | date: "%Y" %}
-
-					{% if prevYear != postYear %}
-						{% assign prevYear = postYear %}
-						</section><section>
-					{% endif %}
+						{% if prevYear != postYear %}
+							{% assign prevYear = postYear %}
+							</section><section>
+						{% endif %}
 
 					<section>{{ post.content }}</section>
 				{% endfor %}
