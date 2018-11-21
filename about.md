@@ -4,11 +4,48 @@ title: About
 permalink: /about/
 ---
 
+# Jinho Ko
+
+## Education
+
++ '18'~Now : Pohang University of Science and Technology(POSTECH),  
+Undergraduate of Creative IT Engineering
++ 18'~18': UC Berkeley, Concurrent Enrollment
++ '15~'18 : Daegu Science High School
+
+## Academics : Undergraduate
+
+| School      | Code      | Title                                                    |
+|-------------|-----------|----------------------------------------------------------|
+|  **AP Course**           |           |                                               |
+| POSTECH     | MATH230   | Probability & Statistics                                 |
+|  **2018 Spring**           |           |                                             |
+| POSTECH     | CSED232   | Object Oriented Programming                              |
+| POSTECH     | CITE102   | Interplays of Humanities and Technology                  |
+| POSTECH     | IMEN110   | Entrepreneurship & Tech. Innovation                      |
+| **2018 Summer**            |           |                                             |
+| RISD        | GRAPH1512 | RISD in Rome : Artistic Practice in Public Spaces        |
+| **2018 Fall**            |           |                                               |
+| UC Berkeley | CS188     | Introduction to Machine Learning                         |
+| UC Berkeley | BIOE131   | Introduction to Computational Molecular and Cell Biology |
+| **2018 Winter**            |           |                                               |
+| POSTECH            | CITE399A          |  Research Participation                                             |
+| **2019 Spring**            |           |                                               |
+| POSTECH     | CITE201   | Creative IT Design I: Fundamentals                              |
+| POSTECH     | CITE306   | Business Model Studio                  |
+| POSTECH     | CSED331   | Algorithms                      |
+| POSTECH     | MATH203   | Applied Linear Algebra                             |
+| POSTECH     | CITE221   | Introduction to Digital System & Microprocessor Design                  |
+| POSTECH     | IMEN400B   | ETI: Introduction to Blockchain                      |
 
 
-**Hello :)**  
-안녕하세요!
 
 
-**This is a personal homepage of Jinho Ko.**  
-이 홈페이지는 고진호의 개인 홈페이지입니다.
+
+
+
+## Github Repo
+[`github.com/dgggit`](http://github.com/dgggit)
+
+## Contact
+ben4945@postech.ac.kr  
