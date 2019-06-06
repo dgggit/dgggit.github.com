@@ -9,7 +9,7 @@ permalink: /about/
 ## Area of Interests
 - `Statistical Machine Learning`
 - `Computer Statistics`
-- `Systems Biology *(especially in bioinformatics)`
+- `Systems Biology (especially in bioinformatics)`
 - `Bio-inspired Technology`
 
 
