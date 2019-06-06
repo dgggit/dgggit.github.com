@@ -7,10 +7,10 @@ permalink: /about/
 # Jinho Ko
 
 ## Area of Interests
-- 'Statistical Machine Learning'
-- 'Computer Statistics'
-- 'Systems Biology *(especially in bioinformatics)'
-- 'Bio-inspired Technology'
+- `Statistical Machine Learning`
+- `Computer Statistics`
+- `Systems Biology *(especially in bioinformatics)`
+- `Bio-inspired Technology`
 
 
 ## Education
