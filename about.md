@@ -6,12 +6,25 @@ permalink: /about/
 
 # Jinho Ko
 
+## Area of Interests
+- 'Statistical Machine Learning'
+- 'Computer Statistics'
+- 'Systems Biology *(especially in bioinformatics)'
+- 'Bio-inspired Technology'
+
+
 ## Education
 
 + '18'~Now : Pohang University of Science and Technology(POSTECH),  
 Undergraduate of Creative IT Engineering
 + 18'~18': UC Berkeley, Concurrent Enrollment
 + '15~'18 : Daegu Science High School
+
+## Github Repo
+[`github.com/dgggit`](http://github.com/dgggit)
+
+## Contact
+ben4945@postech.ac.kr  
 
 ## Academics : Undergraduate
 
@@ -32,20 +45,11 @@ Undergraduate of Creative IT Engineering
 | POSTECH            | CITE399A          |  Research Participation                                             |
 | **2019 Spring**            |           |                                               |
 | POSTECH     | CITE201   | Creative IT Design I: Fundamentals                              |
-| POSTECH     | CITE306   | Business Model Studio                  |
 | POSTECH     | CSED331   | Algorithms                      |
-| POSTECH     | MATH203   | Applied Linear Algebra                             |
 | POSTECH     | CITE221   | Introduction to Digital System & Microprocessor Design                  |
-| POSTECH     | IMEN400B   | ETI: Introduction to Blockchain                      |
 
 
 
 
 
 
-
-## Github Repo
-[`github.com/dgggit`](http://github.com/dgggit)
-
-## Contact
-ben4945@postech.ac.kr  
