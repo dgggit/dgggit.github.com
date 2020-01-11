@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# Jinho Ko
-
 ## Area of Interests
 - `Statistical Machine Learning`
 - `Computer Statistics`
