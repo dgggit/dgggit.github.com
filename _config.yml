@@ -3,6 +3,9 @@
 title: Jinho Ko
 image: /public/jhko.png
 email: ben4945@postech.ac.kr
+github: https://github.com/dgggit
+linkedin: http://www.linkedin.com/in/jinhoko
+facebook: https://www.facebook.com/ben4945
 description: >
   Undergraduate, dept. of Creative IT Engineering, POSTECH, Korea
 baseurl: "" 
@@ -15,12 +18,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# header
-header_pages:
-  - index.md
-  - about.md
-  - techblog.html
-  - CV.html
 
 show_drafts : true
 
