@@ -24,7 +24,7 @@ Hello everyone
 [`github.com/dgggit`](http://github.com/dgggit)
 
 ## Contact
-ben4945 AT postech.ac.kr  
+jinho.ko AT postech.ac.kr  
 
 ## Academics : Undergraduate
 
