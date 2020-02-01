@@ -4,27 +4,23 @@ title: Jinho Ko
 ---
 
 ## About
-Hello everyone
-
+Hello everyone :)
+You can find my github repo & e-mail address on the left sidebar.
 
 ## Area of Interests
-- `Statistical Machine Learning`
-- `Computer Statistics`
-- `Systems Biology (especially in bioinformatics)`
-- `Bio-inspired Technology`
-
+- Big Data Systems
+- Data Mining & NLP
+- Knowledge Graph
+- Computational Statistics
+- Bioinformatics
 
 ## Education
-
-+ '18~Now : Undergraduate @ Creative IT Engineering, POSTECH
-+ Jul18~Dec18: UC Berkeley (as an exchange student)
-+ '15~'18 : Daegu Science High School
-
-## Github Repo
-[`github.com/dgggit`](http://github.com/dgggit)
-
-## Contact
-jinho.ko AT postech.ac.kr  
+- 2018.02 - Present : B.S., Creative IT Engineering, POSTECH, South Korea (Expected Graduation : 2022.02)
+- 2018.07 - 2018.12 : UC Berkeley, USA (as an exchange student)
+- 2015.02 - 2018.02 : Daegu Science High School
 
 ## Academics : Undergraduate
 
+## Work Experience
+
+## Skills
