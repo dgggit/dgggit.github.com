@@ -14,8 +14,16 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
 }
 
+h2{
+  margin-block-end : 0.5em;
+}
+
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
+}
+
+br {
+
 }
 
 ul {
