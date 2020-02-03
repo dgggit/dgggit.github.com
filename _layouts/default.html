@@ -10,17 +10,19 @@
           <img src="{{site.image_wide | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <style>
+          .liner {
+              line-height:8px;
+          }
+        </style>
+
         <p></p>
-        <p><strong>{{ site.description }}</strong>
-          <style>
-            .liner {
-                line-height:8px;
-            }
-          </style>
-          <div class="liner">
-            <br>
-          </div>
-          jinho.ko AT postech.ac.kr
+        <p>
+            <strong>{{ site.description }}</strong>
+            <div class="liner">
+              <br>
+            </div>
+            jinho.ko AT postech.ac.kr
         </p>
 
         <a href="{{site.github}}" class="fa fa-github"></a>
