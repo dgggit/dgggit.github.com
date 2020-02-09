@@ -4,4 +4,4 @@
 User-agent: *
 Disallow: /
 Allow: /literally-everything/
-Sitemap: http://dgggit.github.io/literally-everything/_site/sitemap.xml
+Sitemap: http://dgggit.github.io/literally-everything/sitemap.xml
