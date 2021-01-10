@@ -59,7 +59,9 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Jinho Ko  # your blog must have a name for it to show up in the nav bar
+# BLOG DISABLED
+
+blog_name:   # your blog must have a name for it to show up in the nav bar
 blog_description: Jinho Ko's blog
 permalink: /blog/:year/:title/
 

@@ -8,8 +8,8 @@ profile:
   align: right
   image: profile-wide.png
   address: >
-    <p>A picture of myself in </p>
-    <p>one desert in Dubai.</p>
+    <p>B.S, Creative IT Eng.</p>
+    <p>POSTECH, South Korea</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
