@@ -2,26 +2,33 @@
 layout: about
 title: About
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: B.S Student, Dept. of Creative IT Engineering, POSTECH, South Korea 
 
 profile:
   align: right
   image: profile-wide.png
   address: >
-    <p>B.S, Creative IT Eng.</p>
-    <p>POSTECH, South Korea</p>
+    <p>A picture of myself</p>
+    <p>standing on a desert,</p>
+    <p>somewhere in Dubai.</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. 
+(in construction) ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 
 
-<!--
-Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<h4>Area of Interests</h4>
+- AI-Integrated Big Data Systems
+- Database Systems
+- Systems Software Architecture Design
+- Knowledge-based AI + NLP
+- Cognitive Informatics
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<h4>Education</h4>
+- 2018.02 - Present : Pursing B.S., Creative IT Engineering (mainly computer science), POSTECH, South Korea. (Expected Graduation : 2022.02)
+- 2018.07 - 2018.12 : UC Berkeley, USA (as an exchange student)
+- 2015.02 - 2018.02 : Daegu Science High School
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
+<i>You can see the full version of my CV on the top-left sidebar.</i> 

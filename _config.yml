@@ -53,7 +53,7 @@ keybase_username: # your keybase user name
 contact_note: >
   Please, feel free to contact me!
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-156068228-1
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -70,7 +70,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname:  # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -95,7 +95,7 @@ news_limit: 5
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
-highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme: github
 kramdown:
   input: GFM
   syntax_highlighter_opts:
@@ -150,7 +150,7 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:  false
+enable_google_analytics:  true
 enable_mansory:           true
 enable_math:              true
 enable_tooltips:          false
