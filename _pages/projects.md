@@ -28,7 +28,7 @@ headerOrder: 1
           <span class="badge bg-success">Initiated</span>
           {% endif %}
           {% if project.status == 'launched' %}
-          <span class="badge bg-launched">Launched</span>
+          <span class="badge bg-primary">Launched</span>
           {% endif %}
           {% if project.status == 'closed' %}
           <span class="badge bg-dark">Closed</span>
