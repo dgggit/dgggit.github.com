@@ -3,6 +3,7 @@ layout: page
 title: Stream Processing Toy Project
 description: A toy stream data processing project integrated with Apache Kafka, Apache Spark and other Big-data analysis platforms
 img: 
+status: initiated
 importance: 100
 ---
 

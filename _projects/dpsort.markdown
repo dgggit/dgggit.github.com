@@ -4,6 +4,7 @@ title: DPsort
 description: A distributed, parallel MergeSort system
 img: 
 github: https://github.com/dgggit/cs434-project
+status: closed
 importance: 10
 ---
 

@@ -24,7 +24,16 @@ headerOrder: 1
         <div class="card-body">
           <h2 class="card-title">{{ project.title }}</h2>
           <p class="card-text">{{ project.description }}</p>
-          <div class="row ml-1 mr-1 p-0">
+          {% if project.status == 'initiated' %}
+          <span class="badge bg-success">Initiated</span>
+          {% endif %}
+          {% if project.status == 'launched' %}
+          <span class="badge bg-launched">Launched</span>
+          {% endif %}
+          {% if project.status == 'closed' %}
+          <span class="badge bg-dark">Closed</span>
+          {% endif %}
+          <!-- <div class="row ml-1 mr-1 p-0">
             {% if project.github %}
             <div class="github-icon">
               <div class="icon" data-toggle="tooltip" title="Code Repository">
@@ -38,7 +47,7 @@ headerOrder: 1
               {% endif %}
             </div>
             {% endif %}
-          </div>
+          </div> -->
         </div>
       </div>
     </a>

@@ -3,6 +3,7 @@ layout: page
 title: DL-Vis
 description: A deep-learning visual editor tool for DL researchers
 img: 
+status: initiated
 importance: 10
 ---
 
