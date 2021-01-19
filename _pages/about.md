@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: B.S Student, Dept. of Creative IT Engineering, POSTECH, South Korea 
+description: B.S Student, Dept. of Convergence IT Engineering, POSTECH, South Korea 
 
 profile:
   align: right
@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
 - Cognitive Informatics
 
 <h4>Education</h4>
-- 2018.02 - Present : Pursing B.S., Creative IT Engineering (mainly computer science), POSTECH, South Korea. (Expected Graduation : 2022.02)
+- 2018.02 - Present : Pursing B.S., Convergence IT Engineering (mainly computer science), POSTECH, South Korea. (Expected Graduation : 2022.02)
 - 2018.07 - 2018.12 : UC Berkeley, USA (as an exchange student)
 - 2015.02 - 2018.02 : Daegu Science High School
 
