@@ -7,6 +7,7 @@ nav: true
 headerOrder: 5
 ---
 
-<script type="text/javascript">
-  alert("Currently not available");
+<script>
+  alert('Not available');
 </script>
+<meta http-equiv="refresh" content="0;url=/" />
