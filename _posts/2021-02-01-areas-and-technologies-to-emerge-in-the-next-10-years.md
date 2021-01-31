@@ -54,3 +54,6 @@ for changing neuron structures?
 #### All Tech Stacks For Managing Devices Connected via Internet
 
 much general than IoT?
+
+#### Building Block of the Finance's Future
+
