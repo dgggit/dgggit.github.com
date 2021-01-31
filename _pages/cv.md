@@ -1,9 +1,16 @@
 ---
 layout: page
 title: CV
-permalink: /assets/pdf/example_pdf.pdf
 description: Curriculum Vitae
+__permalink: /assets/pdf/example_pdf.pdf
 nav: true
-headerOrder: 4
+headerOrder: 5
 ---
 
+
+
+<script type="text/javascript">
+
+  alert("Currently not available");
+
+</script>

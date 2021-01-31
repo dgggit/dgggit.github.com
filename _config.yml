@@ -13,14 +13,14 @@ footer_text: >
 
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -40,7 +40,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: dgggit # your GitHub user name
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: jinhoko # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -61,7 +61,7 @@ google_analytics: UA-156068228-1
 
 # BLOG DISABLED
 
-blog_name:   # your blog must have a name for it to show up in the nav bar
+blog_name: Blog  # your blog must have a name for it to show up in the nav bar
 blog_description: Jinho Ko's blog
 permalink: /blog/:year/:title/
 
@@ -70,7 +70,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname:  # put your disqus shortname
+disqus_shortname: dg_jhko # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
