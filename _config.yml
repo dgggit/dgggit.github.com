@@ -70,7 +70,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: dg_jhko # put your disqus shortname
+disqus_shortname: jinhoko # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
