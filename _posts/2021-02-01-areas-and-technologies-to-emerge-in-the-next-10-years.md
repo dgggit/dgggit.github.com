@@ -2,7 +2,7 @@
 layout: post
 title:  Areas of CS to Emerge in the Next 10 Years
 date:   2021-02-01
-description: .
+description: How would the rapidly changing world of computer science be like after 10 years?
 ---
 
 
@@ -56,6 +56,10 @@ Automated bot to search for web may be an idea
 AI 법률 시스템이나, 
 
 explainable AI는 이 것을 위한 하나의 거쳐가는 step이지만, 설명하는 것과 맞고 틀리는 것을 증명하는 것은 전혀 다른 문제이다. 이 방식이 진행되어야만 
+
+#### Scientific Computing & Dealing with Uncertainty
+
+.
 
 ## Data Systems
 
@@ -135,7 +139,7 @@ even for the backend, and security.
 <hr>
 
 
-## Combination with Other Science Fields
+## Combination with Other Fields
 
 #### Strong Influnce in Biology
 
