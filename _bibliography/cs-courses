@@ -1,0 +1,80 @@
+@listing{dbms,
+  title={15-445 Database Systems},
+  year={CMU, Fall 2020},
+  description={This course is on the design and implementation of database management systems. Topics include data models (relational, document, key/value), storage models (n-ary, decomposition), query languages (SQL, stored procedures), storage architectures (heaps, log-structured), indexing (order preserving trees, hash tables), transaction processing (ACID, concurrency control), recovery (logging, checkpoints), query processing (joins, sorting, aggregation, optimization), and parallel architectures (multi-core, distributed). Case studies on open-source and commercial database systems are used to illustrate these techniques and trade-offs. The course is appropriate for students that are prepared to flex their strong systems programming skills. (videos: Fall 2019)},
+
+  status={dbms},
+  website={https://15445.courses.cs.cmu.edu/fall2020/},
+  materials={https://15445.courses.cs.cmu.edu/fall2020/schedule.html},
+  videos={https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi}
+}
+
+@listing{advdbms,
+  title={15-721 Advanced Database Systems},
+  year={CMU, Spring 2020},
+  description={This course is a comprehensive study of the internals of modern database management systems. It will cover the core concepts and fundamentals of the components that are used in both high-performance transaction processing systems (OLTP) and large-scale analytical systems (OLAP). The class will stress both efficiency and correctness of the implementation of these ideas. All class projects will be in the context of a real in-memory, multi-core database system. The course is appropriate for graduate students in software systems and for advanced undergraduates with dirty systems programming skills.},
+
+  status={dbms},
+  website={https://15721.courses.cs.cmu.edu/spring2020},
+  materials={https://15721.courses.cs.cmu.edu/spring2020/schedule.html},
+  videos={https://www.youtube.com/watch?v=SdW5RKUboKc&list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O}
+}
+
+@listing{sgt,
+  title={CPSC662 Spectral Graph Theory},
+  year={Yale, Fall 2018},
+  description={CPSC 662/AMTH 561, is a graduate course on Spectral Graph Theory and related topics. It is taught in the style of a math class, and will cover a bunch of theorems, a few algorithms, and many open problems. I have chosen to only present material that I consider beautiful. My other goals are to present material that is useful and to introduce fundamental concepts. You could think of this as a course in "Advanced Linear Algebra with examples from Graph Theory." Most lectures will cover some essential element of Linear Algebra or Spectral Theory. You could also think of this as a course in "how to talk with Dan", because I find that almost every research question I address somehow relates back to material covered in this course.},
+
+  status={math},
+  website={http://www.cs.yale.edu/homes/spielman/561/561schedule.html},
+}
+
+@listing{pgm,
+  title={15-895N Spectral Graph Theory with Applications to ML},
+  year={CMU, Spring 2020},
+  description={This class will cover material from three areas: Spectral Graph Theory, Numerical Linear Algebra, and the application to problem in CS. The central issue in spectral graph theory is understanding, estimating, and finding eigenvectors and eigenvalues of graphs. The study of random walks on a graph was one of the first users of spectral graph theory. Answering such questions as: How many times should you shuffle a deck of cards to insure that the deck is "well shuffled"? More recent application include Google's page rank algorithm which performs a random walk on the hyperlink graph of the Internet. It has also been applied to the problem of finding these eigenvectors as well as solving related linear systems.},
+
+  status={math},
+  website={http://www.cs.cmu.edu/afs/cs/academic/class/15859n-s20/index.html},
+}
+
+
+@listing{pgm,
+  title={10-708 Probablistic Graph Models},
+  year={CMU, Spring 2014},
+  description={hehe},
+
+  status={aidl},
+  website={http://www.cs.cmu.edu/~epxing/Class/10708-14/index.html},
+}
+
+
+@listing{mlg,
+  title={CS224w Machine Learning with Graphs},
+  year={Stanford, Winter 2021},
+  description={hehe},
+
+  status={aidl},
+  website={http://web.stanford.edu/class/cs224w/},
+}
+
+
+
+@listing{mmdm,
+  title={CS246 Mining Massive Data Sets},
+  year={Stanford, Winter 2020},
+  description={hehe},
+
+  status={bddm},
+  website={http://web.stanford.edu/class/cs246/},
+  videos={https://www.youtube.com/channel/UC_Oao2FYkLAUlUVkBfze4jg/videos}
+}
+
+@listing{mlg,
+  title={CS375/Psych249 Large-Scale Neural Network Models for Neuroscience},
+  year={Stanford, Autumn 2018},
+  description={cmpbio},
+
+  status={cmpbio},
+  website={http://cs375.stanford.edu/},
+}

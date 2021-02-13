@@ -5,34 +5,83 @@ date:   2021-02-01
 description: A collection of high-quality CS courses of my interest areas.
 ---
 
-<hr>
 
-# Data Science & Mathematics
-
-## Big Data & Data Mining
-
-## AI & DL
-
-## Scientific Computing
-
-## Mathematics
-
-## Algorithms
+### Systems & Programming
 
 <hr>
 
-# Systems & Programming
+<!-- ###### Databases Systems -->
+(Database systems)
+<div class="publications">
+    {% bibliography -f cs-courses -q @*[status=dbms]* %}
+</div>
 
-## Computational Biology
+<!-- ###### Parallel/Distributed Systems & Cloud Computing -->
+(Parallel/Distributed systems & Cloud computing)
+<div class="publications">
+    {% bibliography -f cs-courses -q @*[status=pdcc]* %}
+</div>
 
-## Databases Systems
+<!-- ###### Low-Level Programming -->
+(Low-level programming)
+<div class="publications">
+    {% bibliography -f cs-courses -q @*[status=llp]* %}
+</div>
 
-## Parallel/Distributed Systems & Cloud Computing
+<!-- ###### Advanced Programming Techniques -->
+(Prgramming techniques)
+<div class="publications">
+    {% bibliography -f cs-courses -q @*[status=prgm]* %}
+</div>
 
-## Low-Level Programming
+<!-- ###### PL & Compilers -->
+(PL & Compilers)
+<div class="publications">
+    {% bibliography -f cs-courses -q @*[status=plcp]* %}
+</div>
 
-## Advanced Programming Techniques
+<!-- ###### Misc. -->
+(Misc.)
 
-## PL & Compilers
 
-## Misc.
+### Data Science & Mathematics
+
+<hr>
+
+<!-- ###### Big Data & Data Mining -->
+(Big data & Data mining)
+<div class="publications">
+    {% bibliography -f cs-courses -q @*[status=bddm]* %}
+</div>
+
+
+<!-- ###### AI & DL -->
+(AI & Deep learning)
+<div class="publications">
+    {% bibliography -f cs-courses -q @*[status=aidl]* %}
+</div>
+
+<!-- ###### Scientific Computing -->
+(Scientific Computing)
+<div class="publications">
+    {% bibliography -f cs-courses -q @*[status=scicmp]* %}
+</div>
+
+<!-- ###### Mathematics -->
+(Mathematics)
+
+<div class="publications">
+    {% bibliography -f cs-courses -q @*[status=math]* %}
+</div>
+
+<!-- ###### Algorithms -->
+(Algorithms)
+<div class="publications">
+    {% bibliography -f cs-courses -q @*[status=algo]* %}
+</div>
+
+<!-- ###### Computational Biology -->
+(Computational biology)
+<div class="publications">
+    {% bibliography -f cs-courses -q @*[status=cmpbio]* %}
+</div>
