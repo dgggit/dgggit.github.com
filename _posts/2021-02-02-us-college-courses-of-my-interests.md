@@ -5,6 +5,7 @@ date:   2021-02-01
 description: A collection of high-quality CS courses of my interest areas.
 ---
 
+The courses listed here are the best, most advanced courses in the world. It'd be wonderful if one can master in all of the listed courses.
 
 ### Systems & Programming
 
@@ -22,12 +23,6 @@ description: A collection of high-quality CS courses of my interest areas.
     {% bibliography -f cs-courses -q @*[status=pdcc]* %}
 </div>
 
-<!-- ###### Low-Level Programming -->
-(Low-level programming)
-<div class="publications">
-    {% bibliography -f cs-courses -q @*[status=llp]* %}
-</div>
-
 <!-- ###### Advanced Programming Techniques -->
 (Prgramming techniques)
 <div class="publications">
@@ -39,6 +34,13 @@ description: A collection of high-quality CS courses of my interest areas.
 <div class="publications">
     {% bibliography -f cs-courses -q @*[status=plcp]* %}
 </div>
+
+<!-- ###### Computer Securities -->
+(Computer Securities)
+<div class="publications">
+    {% bibliography -f cs-courses -q @*[status=sec]* %}
+</div>
+
 
 <!-- ###### Misc. -->
 (Misc.)
@@ -75,7 +77,7 @@ description: A collection of high-quality CS courses of my interest areas.
 </div>
 
 <!-- ###### Algorithms -->
-(Algorithms)
+(Algorithms / CS Theory)
 <div class="publications">
     {% bibliography -f cs-courses -q @*[status=algo]* %}
 </div>
@@ -85,3 +87,9 @@ description: A collection of high-quality CS courses of my interest areas.
 <div class="publications">
     {% bibliography -f cs-courses -q @*[status=cmpbio]* %}
 </div>
+
+#### References
+
+Below are the list of sites where I referred the infos from.
+- https://github.com/prakhar1989/awesome-courses
+
