@@ -44,7 +44,8 @@
 @listing{pgm,
   title={10-708 Probablistic Graph Models},
   year={CMU, Spring 2014},
-  description={},
+  description={Many of the problems in artificial intelligence, statistics, computer systems, computer vision, natural language processing, and computational biology, among many other fields, can be viewed as the search for a coherent global conclusion from local information. The probabilistic graphical models framework provides an unified view for this wide range of problems, enabling efficient inference, decision-making and learning in problems with a very large number of attributes and huge datasets. This graduate-level course will provide you with a strong foundation for both applying graphical models to complex problems and for addressing core research topics in graphical models.
+},
 
   status={aidl},
   website={http://www.cs.cmu.edu/~epxing/Class/10708-14/index.html},
@@ -54,7 +55,8 @@
 @listing{mlg,
   title={CS224w Machine Learning with Graphs},
   year={Stanford, Winter 2021},
-  description={},
+  description={Complex data can be represented as a graph of relationships between objects. Such networks are a fundamental tool for modeling social, technological, and biological systems. This course focuses on the computational, algorithmic, and modeling challenges specific to the analysis of massive graphs. By means of studying the underlying graph structure and its features, students are introduced to machine learning techniques and data mining tools apt to reveal insights on a variety of networks.
+},
 
   status={aidl},
   website={http://web.stanford.edu/class/cs224w/},
@@ -65,7 +67,8 @@
 @listing{mmdm,
   title={CS246 Mining Massive Data Sets},
   year={Stanford, Winter 2020},
-  description={},
+  description={The course will discuss data mining and machine learning algorithms for analyzing very large amounts of data. The emphasis will be on MapReduce and Spark as tools for creating parallel algorithms that can process very large amounts of data.
+Topics include: Frequent itemsets and Association rules, Near Neighbor Search in High Dimensional Data, Locality Sensitive Hashing (LSH), Dimensionality reduction, Recommendation Systems, Clustering, Link Analysis, Large-scale Supervised Machine Learning, Data streams, Mining the Web for Structured Data, Web Advertising.},
 
   status={bddm},
   website={http://web.stanford.edu/class/cs246/},
@@ -104,7 +107,7 @@
 @listing{atcs,
   title={6.826 Principles of Computer Systems},
   year={Harvard, Fall 2020 (by Prof. Nickolai Zeldovich)},
-  description={},
+  description={computer systems from a verification perspective. Isolation, locking, logging, consistency, Paxos, non-interference, .. Key ideas you have seen in 6.033, 6.828, 6.824, ... 6.826 will try to discuss them in a principled manner. Particular focus on specification and proofs. What does it mean for a system to be correct? What exact properties does it provide? Is the implementation correct, or does it have bugs?},
 
   status={pdcc},
   website={https://6826.csail.mit.edu/2020/},
@@ -114,7 +117,7 @@
 @listing{css,
   title={6.858 Computer Systems Security},
   year={Harvard, Spring 2020 (by Prof. Nickolai Zeldovich)},
-  description={},
+  description={Design and implementation of secure computer systems. Lectures cover threat models, attacks that compromise security, and techniques for achieving security, based on recent research papers. Topics include operating system (OS) security, capabilities, information flow control, language security, network protocols, hardware security, and security in web applications. Assignments include labs that involve implementing and compromising a secure web server and web application, and a group final project. Students can use 6.858 to fulfill the engineering concentration requirements for Computer Systems.},
 
   status={sec},
   website={https://css.csail.mit.edu/6.858/2020/schedule.html},
@@ -124,7 +127,7 @@
 @listing{bda,
   title={E6893 Big Data Analysis},
   year={Columbia, Fall 2020 (by Prof. Ching-Yung Lin)},
-  description={},
+  description={Students will gain knowledge on analyzing Big Data. It serves as an introductory course for graduate students who are expecting to face Big Data storage, processing, analysis, visualization, and application issues on both workplaces and research environments. Gain knowledge on this fast-changing technological direction. Big Data Analytics is probably the fastest evolving issue in the IT world now. New tools and algorithms are being created and adopted swiftly. Get insight on what tools, algorithms, and platforms to use on which types of real world use cases.},
 
   status={bddm},
   website={https://www.ee.columbia.edu/~cylin/course/bigdata/},
@@ -144,7 +147,7 @@
 @listing{abt,
   title={CS368 Algorithmic Techniques for Big Data},
   year={Stanford, Spring 2020},
-  description={},
+  description={Designing algorithms for efficient processing of large data sets poses unique challenges. This course will discuss algorithmic paradigms that have been developed to efficiently process data sets that are much larger than available memory. We will cover streaming algorithms and sketching methods that produce compact data structures, dimension reduction methods that preserve geometric structure, efficient algorithms for numerical linear algebra, graph sparsification methods, as well as impossibility results for these techniques.},
 
   status={algo},
   website={http://web.stanford.edu/class/cs368/},
@@ -153,8 +156,8 @@
 
 @listing{aabt,
   title={CS229r Algorithms for Big Data},
-  year={Harvard, Fall 2015 },
-  description={},
+  year={Harvard, Fall 2015},
+  description={Big data is data so large that it does not fit in the main memory of a single machine, and the need to process big data by efficient algorithms arises in Internet search, network traffic monitoring, machine learning, scientific computing, signal processing, and several other areas. This course will cover mathematically rigorous models for developing such algorithms, as well as some provable limitations of algorithms operating in those models. },
 
   status={algo},
   website={http://people.seas.harvard.edu/~minilek/cs229r/fall15/index.html},
@@ -230,7 +233,7 @@
 @listing{ds,
   title={6.824 Distributed Systems},
   year={MIT, Spring 2021},
-  description={(Video : 2020)},
+  description={6.824 is a core 12-unit graduate subject with lectures, readings, programming labs, an optional project, a mid-term exam, and a final exam. It will present abstractions and implementation techniques for engineering distributed systems. Major topics include fault tolerance, replication, and consistency. Much of the class consists of studying and discussing case studies of distributed systems. (Video : 2020)},
 
   status={pdcc},
   website={https://pdos.csail.mit.edu/6.824/index.html},
