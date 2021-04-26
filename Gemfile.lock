@@ -271,6 +271,7 @@ GEM
 
 PLATFORMS
   universal-darwin-18
+  universal-darwin-19
 
 DEPENDENCIES
   github-pages
@@ -284,4 +285,4 @@ DEPENDENCIES
   unicode_utils
 
 BUNDLED WITH
-   2.2.4
+   2.2.16
