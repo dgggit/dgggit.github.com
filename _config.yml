@@ -18,6 +18,7 @@ last_updated: true # set to true if you want to display last updated in the foot
 # -------------
 # Jekyll Actions
 # -------------
+repository: jinhoko/jinhoko.github.io
 
 # -----------------------------------------------------------------------------
 # Layout
