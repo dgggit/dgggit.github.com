@@ -19,6 +19,9 @@ social: true  # includes social icons at the bottom of the page
 
 Greetings!
 
+I am a senior student mainly studying computer science in POSTECH, South Korea.
+
+
 <h4>Area of Interests</h4>
 - AI-Integrated Big Data Systems
 - Database Systems
