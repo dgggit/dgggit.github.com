@@ -2,25 +2,18 @@
 layout: about
 title: About
 permalink: /
-description: B.S Student, Dept. of Convergence IT Engineering, POSTECH, South Korea 
 
 profile:
   align: right
-  image: profile-wide.png
-  address: >
-    <p>A picture of myself</p>
-    <p>standing on a desert,</p>
-    <p>somewhere in Dubai.</p>
+  image: profile.jpg
+  address: B.S Student, Dept. of Convergence IT Engineering, POSTECH, South Korea 
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Greetings!
-
-I am a senior student mainly studying computer science in POSTECH, South Korea.
-
+I am a senior student mainly studying computer science in POSTECH. My research/development interest primarily relies on all kinds of big data platforms, including database systems and distributed systems. I believe introducing deep learning into these systems will let them behave much smarter. I'm also interested in data-driven technologies such as knowledge base and deep learning systems that may bring revolutionary business insights.
 
 <h4>Area of Interests</h4>
 - AI-Integrated Big Data Systems
