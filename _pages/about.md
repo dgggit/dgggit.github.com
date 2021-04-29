@@ -23,8 +23,8 @@ I am a senior student mainly studying computer science in POSTECH. My research/d
 - Cognitive Informatics
 
 <h4>Education</h4>
-- 2018.02 - Present : Pursing B.S., Convergence IT Engineering (mainly computer science), POSTECH, South Korea. (Expected Graduation : 2022.02)
+- 2018.02 - Present : Pursing B.S., Convergence IT Engineering (mainly computer science), POSTECH, South Korea. (Expected Graduation : 2022.08)
 - 2018.07 - 2018.12 : UC Berkeley, USA (exchange student)
 - 2015.02 - 2018.02 : Daegu Science High School
 
-<i>You can see the full version of my CV on the top-left sidebar.</i> 
+<i>You can see the full version of my CV on the top-right header.</i> 

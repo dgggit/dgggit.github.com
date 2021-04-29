@@ -60,6 +60,12 @@ contact_note: >
 
 google_analytics: UA-156068228-1
 
+# ---
+# External Blog
+# ---
+
+blog_addr: http://blog.jinhoko.com
+
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
@@ -123,6 +129,8 @@ plugins:
   - jekyll/scholar
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-redirect-from
+
   # - bootstrap
   # - material-sass
 

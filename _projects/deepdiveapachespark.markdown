@@ -15,7 +15,7 @@ Apache Spark is not only a paradigm of modern big data programming, but also an 
 
 Starting from feburary of 2021, I am analyzing all the spark core component within code level. The focus of this book is set to interpret the implementation details, and to illustrate the detailed architecture of Apache Spark. After all, the ultimate goal of this writing is to fully comprehend the system in the original coder's view and to develop skills for writing huge systems software.
 
-<h3>Content</h3>
+<h3>Contents</h3>
 
 Although the writing is in its first few steps, I'm constantly updating the book in the following public link:
 

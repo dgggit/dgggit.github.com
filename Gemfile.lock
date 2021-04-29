@@ -279,6 +279,7 @@ DEPENDENCIES
   jekyll-email-protect
   jekyll-github-metadata
   jekyll-paginate-v2
+  jekyll-redirect-from
   jekyll-scholar
   jekyll-twitter-plugin
   jemoji
