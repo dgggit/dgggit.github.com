@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile-wide.jpg
   address: B.S Student, Dept. of Convergence IT Engineering, POSTECH, South Korea 
 
 news: true  # includes a list of news items
