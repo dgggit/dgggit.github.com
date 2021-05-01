@@ -13,8 +13,9 @@ bash bin/deploy
 
 ### Theme Info
 
-Theme originally from : [siegerts/hugo-theme-basic](https://github.com/siegerts/hugo-theme-basic) 
+Theme originally from : [alshedivat/al-folio](https://github.com/alshedivat/al-folio) 
 The license of the theme part follows that of the original author.
+
 
 ### Copyrights
 
