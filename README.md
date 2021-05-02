@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Academic [webpage](https://jinhoko.github.io/) of Jinho Ko
+Academic [webpage](https://academics.jinhoko.com/) of Jinho Ko
 
 ### Deployment
 
