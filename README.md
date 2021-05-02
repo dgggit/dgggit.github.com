@@ -1,4 +1,4 @@
-# jinhoko.com (jinhoko.github.io)
+# academics.jinhoko.com (jinhoko.github.io)
 
 ### Introduction
 
